@@ -1,5 +1,5 @@
 # DA323 Assignment 01
-Web scrapping, multimodal data processing and fusion, modality synchronisation and beyond ...
+Web scrapping, multimodal data processing and fusion, modality synchronisation and beyond.
 This repository contains three main tasks, each in its own folder. Below is a description of the folder structure and a brief overview of the contents.
 
 ---
