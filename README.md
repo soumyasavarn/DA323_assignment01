@@ -9,7 +9,8 @@ This repository contains three main tasks, each in its own folder. Below is a de
 **Folder Contents:**
 - **Task A/**  
 - **Task B/**  
-- **Task C/**  
+- **Task C/**
+- **Task D/**  
 - **Task E/**  
 
 Each subfolder contains code or data related to a different subtask of the scalable data collection process.
